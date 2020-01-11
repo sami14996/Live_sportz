@@ -1,0 +1,12 @@
+body {
+    background-image: url("bg1.jpeg");
+	
+}
+
+#my_logo {width:185px; height:115px;}
+
+
+h3 {
+    color: navy;
+    margin-left: 50px;
+}
